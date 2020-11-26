@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi ,here is Z-B-Y👋
 
-<!--
-**Z-B-Y/Z-B-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Xi'An.
+- 🌱 I’m currently learning cyberspace security.
+- 👯 I’m looking to collaborate on back-end developing.
+- 🤔 I’m looking for help with how to change myself.
+- 💬 You can follow me on ZhiHu:https://www.zhihu.com/people/qian-cheng-mo-bai-70
+- 📫 How to reach me: zby970923@163.com
+- 😄 I love Nanjing.
+- ⚡ I love reading books about history and culture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
