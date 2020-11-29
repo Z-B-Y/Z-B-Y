@@ -10,4 +10,5 @@
 - 📫 How to reach me: zby970923@163.com
 - 😄 I love reading books about history and culture.
 - ⚡ The proletarians all of the world unite!
+- ⚡ The Internationale must be realized!
 
