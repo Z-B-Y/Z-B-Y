@@ -4,7 +4,7 @@
 
 ### 
 
-- 🔭 I’m currently living in Xi'An and I love Naning.
+- 🔭 I’m currently living in Xi'An and I love Nanjing.
 - 🌱 I’m currently learning cyberspace security.
 - 👯 I’m looking to collaborate on back-end developing.
 - 🤔 I’m looking for help with how to make me stronger.
